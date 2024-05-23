@@ -10,15 +10,11 @@ Dataset yang digunakan dalam proyek ini adalah [loan_data_2007_2014.csv](https:/
 
 ## Struktur Proyek
 - `Credit_Risk_Analysis.ipynb`: Notebook Jupyter yang berisi langkah-langkah analisis dan pemodelan.
-- `credit_risk_analysis.py`: Skrip Python yang menjalankan analisis dan pemodelan.
 
 ## Penggunaan
 Berikut adalah langkah-langkah untuk menjalankan proyek Credit Risk Analysis:
 
 1. Pastikan Anda memiliki Python dan semua dependensi yang diperlukan terpasang di lingkungan Anda.
 2. Clone repositori ini ke direktori lokal Anda.
-3. Buka `Credit_Risk_Analysis.ipynb` dengan Jupyter Notebook atau jalankan `credit_risk_analysis.py` dengan menjalankan perintah `python credit_risk_analysis.py`.
+3. Buka `Credit_Risk_Analysis.ipynb` dengan Jupyter Notebook
 4. Ikuti langkah-langkah dalam notebook atau skrip untuk melihat hasil analisis dan pemodelan.
-
-## Kontribusi
-Kontribusi dan saran selalu diterima dalam proyek ini. Jika Anda menemukan masalah, memiliki saran perbaikan, atau ingin menambahkan fitur baru, silakan buka _issue_ atau _pull request_ yang sesuai.
